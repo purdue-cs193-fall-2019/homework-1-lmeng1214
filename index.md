@@ -42,6 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Regular Text
 ```Markdown Text
+```
 # Header 1 Text
 ## Header 2 Text
 ### Header 3 Text
