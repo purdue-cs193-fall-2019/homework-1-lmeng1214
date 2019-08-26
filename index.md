@@ -56,4 +56,4 @@ Regular Text
 **Bold Text**
 _Italic Text_
 `Code text`
-[Link text](www.google.com) ![Image Text](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+[Link text](https://www.google.com/) ![Image Text](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
