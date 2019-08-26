@@ -35,3 +35,24 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+Regular Text
+```Markdown Text
+# Header 1 Text
+## Header 2 Text
+### Header 3 Text
+
+- Bulleted list
+- Text
+
+1. Numbered list
+2. Text
+
+**Bold Text**
+_Italic Text_
+`Code text`
+[Link text](www.google.com) ![Image Text](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
